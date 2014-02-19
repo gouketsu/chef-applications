@@ -7,7 +7,7 @@ version          '2.0'
 
 supports         "mac_os_x"
 
-depends          "chef-homebrewalt" :github => "kitchenplan/chef-homebrewalt"
+depends          "chef-homebrewalt"
 depends          "nodejs"
 depends          "dotfiles"
 depends          "dmg"
